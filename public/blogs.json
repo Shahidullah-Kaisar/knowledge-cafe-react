@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "cover_img": "https://i.ibb.co/fk8km68/7906107.jpg",
+        "title": "Exploring the Universe",
+        "author": "Jane Doe",
+        "author_img": "https://i.ibb.co/MZW1r7t/man-user-circle-icon.webp",
+        "posted_date": "June 22,2024",
+        "reading_time": 10,
+        "hashtags": ["#space", "#science", "#astronomy"]
+    },
+    {
+        "id": 2,
+        "cover_img": "https://i.ibb.co/fk8km68/7906107.jpg",
+        "title": "The Art of Cooking",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co/MZW1r7t/man-user-circle-icon.webp",
+        "posted_date": "June 22,2024",
+        "reading_time": 5,
+        "hashtags": ["#cooking", "#food", "#recipes"]
+    },
+    {
+        "id": 3,
+        "cover_img": "https://i.ibb.co/fk8km68/7906107.jpg",
+        "title": "Understanding AI",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co/MZW1r7t/man-user-circle-icon.webp",
+        "posted_date": "June 22,2024",
+        "reading_time": 15,
+        "hashtags": ["#AI", "#technology", "#innovation"]
+    },
+    {
+        "id": 4,
+        "cover_img": "https://i.ibb.co/fk8km68/7906107.jpg",
+        "title": "Traveling the World",
+        "author": "Mike Brown",
+        "author_img": "https://i.ibb.co/MZW1r7t/man-user-circle-icon.webp",
+        "posted_date": "June 22,2024",
+        "reading_time": 8,
+        "hashtags": ["#travel", "#adventure", "#exploration"]
+    }
+]
